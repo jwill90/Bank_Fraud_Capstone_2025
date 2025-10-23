@@ -1,0 +1,128 @@
+Rank,State/Territory,Filings (Overall),Percentage (Overall),Rank.1,State/Territory.1,Filings (Overall).1,Percentage (Overall).1,Suspicious Activity Type
+1,California,2291535,0.12930068441703124,31.0,Oklahoma,132202.0,Less than 1%,
+2,Ohio,1445487,0.08156212251435009,32.0,Mississippi,130258.0,Less than 1%,
+3,New York,1423928,0.08034564820549303,33.0,Oregon,124186.0,Less than 1%,
+4,North Carolina,1252861,0.07069313136365196,34.0,Puerto Rico,113601.0,Less than 1%,
+5,Texas,1196373,0.06750577569971959,35.0,Kentucky,94442.0,Less than 1%,
+6,Virginia,1118671,0.06312141247569196,36.0,Hawaii,89228.0,Less than 1%,
+7,Florida,999137,0.05637666364527679,37.0,Arkansas,81510.0,Less than 1%,
+8,Delaware,705269,0.0397950563260501,38.0,Kansas,69521.0,Less than 1%,
+9,Illinois,506988,0.028606979771734597,39.0,West Virginia,65799.0,Less than 1%,
+10,Pennsylvania,470484,0.026547228476659763,40.0,Iowa,65437.0,Less than 1%,
+11,New Jersey,470174,0.026529736615453506,41.0,Rhode Island,63788.0,Less than 1%,
+12,Georgia,466905,0.026345282117765594,42.0,New Mexico,60305.0,Less than 1%,
+13,Utah,440214,0.02483923286790688,43.0,Nebraska,53044.0,Less than 1%,
+14,South Dakota,381523,0.02152757213869263,44.0,Maine,48160.0,Less than 1%,
+15,Michigan,266303,0.015026242305838084,45.0,District of Columbia,47058.0,Less than 1%,
+16,Washington,248097,0.013998962224802241,46.0,New Hampshire,35536.0,Less than 1%,
+17,Massachusetts,246376,0.01390185418242815,47.0,Idaho,31974.0,Less than 1%,
+18,Arizona,233357,0.013167252437124095,48.0,Unknown/Blank,31484.0,Less than 1%,
+19,Maryland,230893,0.013028220353213717,49.0,North Dakota,29341.0,Less than 1%,
+20,Tennessee,221284,0.012486029081178487,50.0,Alaska,29325.0,Less than 1%,
+21,Alabama,221257,0.01248450559649278,51.0,Montana,24425.0,Less than 1%,
+22,Indiana,190380,0.010742259794990872,52.0,Vermont,14737.0,Less than 1%,
+23,Nevada,188764,0.010651076415283418,53.0,Wyoming,10882.0,Less than 1%,
+24,Colorado,179019,0.010101211294460925,54.0,Guam,9018.0,Less than 1%,
+25,Louisiana,150670,Less than 1%,55.0,U.S. Virgin Islands,5460.0,Less than 1%,
+26,Minnesota,150644,Less than 1%,56.0,Northern Mariana Islands,1794.0,Less than 1%,
+27,Wisconsin,146165,Less than 1%,57.0,American Samoa,1013.0,Less than 1%,
+28,South Carolina,140402,Less than 1%,58.0,Palau,483.0,Less than 1%,
+29,Connecticut,137646,Less than 1%,59.0,Federated States of Micronesia,109.0,Less than 1%,
+30,Missouri,137575,Less than 1%,60.0,Marshall Islands,27.0,Less than 1%,
+1,,3538283,0.08807251955424432,,,,,Suspicion concerning the source of funds
+2,,3515701,0.0875104238607755,,,,,Transaction(s) below CTR threshold
+3,,2919906,0.07268030236178263,,,,,Check
+4,,2917251,0.07261421591832502,,,,,"Transaction with no apparent economic, business, or lawful purpose"
+5,,2498336,0.06218687035860968,,,,,Transaction out of pattern for customer(s)
+6,,2353501,0.05858173663424705,,,,,Suspicious EFT/wire transfers
+7,,2138542,0.053231124280497845,,,,,Suspicious use of multiple transaction locations
+8,,1864662,0.04641389070830579,,,,,Credit/Debit card
+9,,1836364,0.04570951625370563,,,,,Identity theft
+10,,1454115,0.036194835679231985,,,,,Fraud - Other
+11,,1285001,0.03198536569848243,,,,,Counterfeit Instruments
+12,,1259359,0.03134710257865569,,,,,Two or more individuals working together
+13,,1258282,0.03132029463153559,,,,,Other Suspicious Activities - Other
+14,,1224414,0.030477275547911378,,,,,ACH
+15,,1011258,0.025171542236555416,,,,,Suspicious use of multiple accounts
+16,,999840,0.02488733319271399,,,,,Provided questionable or false documentation
+17,,744603,0.018534148421041785,,,,,Consumer loan
+18,,634176,0.015785475090837123,,,,,Suspicious use of noncash monetary instruments
+19,,625684,0.015574098037035989,,,,,Wire
+20,,621328,0.015465671465397063,,,,,Money Laundering - Other
+21,,527590,0.013132409304632718,,,,,Forgeries
+22,,479161,0.011926947771597486,,,,,Account takeover
+23,,474461,0.011809958587322245,,,,,Elder financial exploitation
+24,,375305,Less than 1%,,,,,Multiple individuals with same or similar identities
+25,,354871,Less than 1%,,,,,Transaction(s) below BSA recordkeeping threshold
+26,,335253,Less than 1%,,,,,Alters or cancels transaction to avoid CTR requirement
+27,,285229,Less than 1%,,,,,Transaction(s) involving foreign high risk jurisdiction*
+28,,258132,Less than 1%,,,,,Suspicious receipt of government payments/benefits
+29,,199952,Less than 1%,,,,,Identification Documentation - Other
+30,,193916,Less than 1%,,,,,Mass-marketing
+31,,158172,Less than 1%,,,,,Refused or avoided request for documentation
+32,,131822,Less than 1%,,,,,Suspicious inquiry by customer regarding BSA reporting or recordkeeping requirements
+33,,126613,Less than 1%,,,,,Funnel account*
+34,,107867,Less than 1%,,,,,Mail
+35,,104027,Less than 1%,,,,,Against financial institution customer(s)*
+36,,101815,Less than 1%,,,,,Embezzlement/theft/disappearance of funds
+37,,101296,Less than 1%,,,,,Mortgage Fraud - Other
+38,,97947,Less than 1%,,,,,Provided questionable or false identification*
+39,,97694,Less than 1%,,,,,Business loan
+40,,93195,Less than 1%,,,,,Structuring - Other
+41,,90961,Less than 1%,,,,,Single individual with multiple identities
+42,,70253,Less than 1%,,,,,"Little or no concern for product performance penalties, fees, or tax consequences"
+43,,69041,Less than 1%,,,,,Suspicious use of third-party transactors (straw-man)
+44,,62190,Less than 1%,,,,,Exchanges small bills for large bills or vice versa
+45,,52670,Less than 1%,,,,,Misuse of position or self-dealing
+46,,50545,Less than 1%,,,,,"Suspicious designation of beneficiaries, assignees or joint owners"
+47,,43959,Less than 1%,,,,,Alters or cancels transaction to avoid BSA recordkeeping requirement
+48,,39032,Less than 1%,,,,,Suspicion concerning the physical condition of funds
+49,,35624,Less than 1%,,,,,Application fraud*
+50,,33599,Less than 1%,,,,,Against financial institution(s)*
+51,,33111,Less than 1%,,,,,Suspicious exchange of currencies
+52,,32730,Less than 1%,,,,,Unlicensed or unregistered MSB
+53,,25540,Less than 1%,,,,,Cyber Event - Other*
+54,,25445,Less than 1%,,,,,Customer cancels transaction to avoid BSA reporting and recordkeeping requirements†
+55,,23425,Less than 1%,,,,,Suspicious use of informal value transfer system
+56,,19397,Less than 1%,,,,,Unauthorized electronic intrusion†
+57,,16621,Less than 1%,,,,,Loan modification fraud
+58,,15342,Less than 1%,,,,,Trade Based Money Laundering/Black Market Peso Exchange
+59,,15060,Less than 1%,,,,,Human trafficking*
+60,,13817,Less than 1%,,,,,Advance fee*
+61,,12564,Less than 1%,,,,,Healthcare/Public or private health insurance
+62,,11693,Less than 1%,,,,,Origination fraud*
+63,,11488,Less than 1%,,,,,Gaming Activities - Other
+64,,9828,Less than 1%,,,,,Changes spelling or arrangement of name
+65,,6642,Less than 1%,,,,,Suspected public/private corruption (foreign)
+66,,6395,Less than 1%,,,,,Foreclosure/Short sale fraud
+67,,5097,Less than 1%,,,,,Bribery or gratuity
+68,,4155,Less than 1%,,,,,Suspected public/private corruption (domestic)
+69,,3161,Less than 1%,,,,,Securities/Futures/Options - Other
+70,,3140,Less than 1%,,,,,Appraisal fraud
+71,,3133,Less than 1%,,,,,Known or suspected terrorist/terrorist organization
+72,,2840,Less than 1%,,,,,Securities fraud*
+73,,2800,Less than 1%,,,,,Market manipulation*
+74,,2505,Less than 1%,,,,,Pyramid scheme
+75,,2483,Less than 1%,,,,,Ponzi scheme*
+76,,2431,Less than 1%,,,,,Terrorist Financing - Other
+77,,1892,Less than 1%,,,,,Insider trading
+78,,1477,Less than 1%,,,,,Insurance - Other
+79,,1462,Less than 1%,,,,,Human smuggling*
+80,,987,Less than 1%,,,,,Misappropriation
+81,,934,Less than 1%,,,,,Proceeds sent to unrelated third party
+82,,922,Less than 1%,,,,,Market manipulation/Wash trading†
+83,,534,Less than 1%,,,,,Minimal gaming with large transactions
+84,,508,Less than 1%,,,,,Suspicious use of counter checks or markers
+85,,306,Less than 1%,,,,,Excessive insurance
+86,,293,Less than 1%,,,,,"Suspicious life settlement sales insurance (e.g., STOLI's, Viaticals)"
+87,,251,Less than 1%,,,,,"Misuse of ""free look""/cooling-off/right of rescission†"
+88,,235,Less than 1%,,,,,Suspicious intra-casino funds transfers†
+89,,232,Less than 1%,,,,,Suspicious termination of policy or contract
+90,,207,Less than 1%,,,,,Excessive or unusual cash borrowing against policy/annuity
+91,,195,Less than 1%,,,,,Unclear or no insurable interest
+92,,155,Less than 1%,,,,,Reverse mortgage fraud†
+93,,129,Less than 1%,,,,,Unauthorized pooling
+94,,126,Less than 1%,,,,,Wash trading*
+95,,66,Less than 1%,,,,,Unknown source of chips*
+96,,55,Less than 1%,,,,,Chip walking*
+97,,47,Less than 1%,,,,,Inquiry about end of business day†

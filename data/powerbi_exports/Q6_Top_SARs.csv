@@ -1,0 +1,11 @@
+Suspicious Activity Category,Suspicious Activity Type,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,Total
+Fraud,ACH,24904.0,37338.0,48679.0,50680.0,65179,88858,143269,176911,183730,199939,204927,1224414.0
+Other Suspicious Activities,Account takeover,16668.0,23049.0,27132.0,27869.0,38315,42825,37917,43917,61104,77558,82807,479161.0
+Money Laundering,Exchanges small bills for large bills or vice versa,5965.0,4755.0,4810.0,4792.0,4847,6186,7720,7692,5502,5047,4874,62190.0
+Structuring,Alters or cancels transaction to avoid BSA recordkeeping requirement,8199.0,5137.0,4236.0,4086.0,3931,3851,2989,3195,2724,2927,2684,43959.0
+Mortgage Fraud,Application fraud*,,,,,361,4394,4877,4579,6419,7476,7518,35624.0
+Cyber Eventàà,Against financial institution(s)*,,,,,260,2829,4871,5399,7188,7161,5891,33599.0
+Identification Documentation,Changes spelling or arrangement of name,1304.0,1103.0,924.0,884.0,1002,893,682,728,752,782,774,9828.0
+Terrorist Financing,Known or suspected terrorist/terrorist organization,231.0,433.0,374.0,379.0,291,286,222,172,188,234,323,3133.0
+Securities/Futures/Options,Insider trading,36.0,64.0,84.0,66.0,70,86,151,310,347,403,275,1892.0
+Insurance,Excessive insurance,25.0,23.0,19.0,21.0,25,25,32,29,26,28,53,306.0

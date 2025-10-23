@@ -1,0 +1,34 @@
+Suspicious Activity Type,Year,SAR Count
+Against Financial Institution(s),2020,4871
+ACH/Automated Clearinghouse,2020,143269
+Chip Walking,2020,7
+Changes Name,2020,682
+Excessive Insurance,2020,32
+Bill Exchange,2020,7720
+Application Fraud,2020,4877
+Account Takeover,2020,37917
+Insider Trading,2020,151
+Alters/Cancels Transaction,2020,2989
+Known or Suspected Terrorist,2020,222
+Against Financial Institution(s),2021,5399
+ACH/Automated Clearinghouse,2021,176911
+Chip Walking,2021,2
+Changes Name,2021,728
+Excessive Insurance,2021,29
+Bill Exchange,2021,7692
+Application Fraud,2021,4579
+Account Takeover,2021,43917
+Insider Trading,2021,310
+Alters/Cancels Transaction,2021,3195
+Alters/Cancels Transaction,2021,172
+Against Financial Institution(s),2022,7188
+ACH/Automated Clearinghouse,2022,183730
+Chip Walking,2022,15
+Changes Name,2022,752
+Excessive Insurance,2022,26
+Bill Exchange,2022,5502
+Application Fraud,2022,6419
+Account Takeover,2022,61104
+Insider Trading,2022,347
+Alters/Cancels Transaction,2022,2724
+Alters/Cancels Transaction,2022,188

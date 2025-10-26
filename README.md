@@ -6,7 +6,7 @@ My motivation for this financial crimes analysis project stems from combining my
 
 **Data**
 FinCEN: https://www.fincen.gov
-FinCEN SAR Data Analysis: Consumer Fraud & Identity Theft This repository contains the analysis of Suspicious Activity Reports SARs data sourced from the Financial Crimes Enforcement Network. The goal is to uncover patterns, trends, and correlations related to consumer fraud and identity theft within the U.S. financial system. 
+FinCEN SAR Data Analysis: Consumer Fraud & Identity Theft. This repository contains the analysis of Suspicious Activity Reports SARs data sourced from the Financial Crimes Enforcement Network. The goal is to uncover patterns, trends, and correlations related to consumer fraud and identity theft within the U.S. financial system. 
 
 The project utilized FinCEN datasets of known SAR to gain insight into the payment methods and instruments utilized when suspicious activity is reported. Federal Data: Available for the period 2014–2024. State Data: Available for the period 2020–2025.The datasets contain crucial information associated with various industry types (e.g., depository institutions, money services businesses, securities/futures). This project will be focusing on industry Type: Depository Institutions 
 
